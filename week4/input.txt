@@ -1,0 +1,4 @@
+Python is fun.  
+I love learning Python.  
+Python is powerful for data analysis and web development.  
+Learning Python step by step makes coding easier.  
