@@ -9,7 +9,7 @@ This project explores the CORD-19 dataset (`metadata.csv`) and builds a simple i
 - Visualize publication trends with charts and a word cloud
 - Interactive Streamlit app
 
-## Setup
+## Setup Guidelines 
 
 1. Clone the repo:
    ```bash
