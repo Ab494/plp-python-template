@@ -30,7 +30,7 @@ This project explores the CORD-19 dataset (`metadata.csv`) and builds a simple i
 - Use the sidebar to filter by year, journal, or keywords.
 - Explore the visualizations and word cloud for insights into COVID-19 research publications.
 
-## Files
+## File
 
 - `app.py`: Main Streamlit application
 - `metadata_sample.csv`: CORD-19 metadata file (not included; download from official source)
